@@ -1,0 +1,19 @@
+{
+  "name": "搞怪滤镜相机",
+  "short_name": "怪相机",
+  "description": "一个利用 HTML5 实现的趣味搞怪滤镜相机应用",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["utilities", "photo"],
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
